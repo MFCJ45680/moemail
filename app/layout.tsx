@@ -8,7 +8,7 @@ import { Providers } from "./providers"
 import { FloatMenu } from "@/components/float-menu"
 
 export const metadata: Metadata = {
-  title: "MoeMail - 萌萌哒临时邮箱服务",
+  title: "qMail - 趣加临时邮箱服务",
   description: "安全、快速、一次性的临时邮箱地址，保护您的隐私，远离垃圾邮件。支持即时收件，到期自动失效。",
   keywords: [
     "临时邮箱",
@@ -21,11 +21,10 @@ export const metadata: Metadata = {
     "安全邮箱",
     "注册验证",
     "临时账号",
-    "萌系邮箱",
     "电子邮件",
     "隐私安全",
     "邮件服务",
-    "MoeMail"
+    "qMail"
   ].join(", "),
   authors: [{ name: "SoftMoe Studio" }],
   creator: "SoftMoe Studio",
@@ -42,13 +41,13 @@ export const metadata: Metadata = {
     type: "website",
     locale: "zh_CN",
     url: "https://moemail.app",
-    title: "MoeMail - 萌萌哒临时邮箱服务",
+    title: "qMail - 趣加临时邮箱服务",
     description: "安全、快速、一次性的临时邮箱地址，保护您的隐私，远离垃圾邮件。支持即时收件，到期自动失效。",
     siteName: "MoeMail",
   },
   twitter: {
     card: "summary_large_image",
-    title: "MoeMail - 萌萌哒临时邮箱服务",
+    title: "qMail - 趣加临时邮箱服务",
     description: "安全、快速、一次性的临时邮箱地址，保护您的隐私，远离垃圾邮件。支持即时收件，到期自动失效。",
   },
   manifest: '/manifest.json',
